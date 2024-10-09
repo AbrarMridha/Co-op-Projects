@@ -1,5 +1,3 @@
-# Name - Abrarul Hoque Mridha
-# Student ID - 202141040
 # This file holds the algorithms to perform the histogram operations on the image.
 
 import matplotlib.pyplot as plt
