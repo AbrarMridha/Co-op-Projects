@@ -12,4 +12,6 @@ This method redistributes the intensity values of the image to achieve a more ba
 <b>Goals of the Project:</b><br><br>
 To demonstrate various image processing techniques for contrast enhancement.<br>
 <br>To provide visual comparisons between different histogram-based methods for improving image quality.
+<br><br><b>Supporting Files (optional):</b>
+<br><br>Provided a sample image "baboon.png" to work with the program. The picture needs to be downloaded in the directory the program will be working on.
 </p>
