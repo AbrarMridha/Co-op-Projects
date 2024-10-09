@@ -1,8 +1,4 @@
-# Name - Abrarul Hoque Mridha
-# Student ID - 202141040
 # This file holds the code for the graphical user interface.
-# BUG - There is one known bug. The histogram stretching sometimes appears like a black image.
-# It could be my macOS issue. tkinter might be not optimized well for my OS.
 
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
